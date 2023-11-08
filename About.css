@@ -1,0 +1,82 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+
+body { 
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: black;
+}
+
+.gym-exterior {
+    width: 100%;
+    position: relative;
+}
+
+.about {
+    position: absolute;
+    margin-top: -600px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+
+.about-2 {
+    position: absolute;
+    font-size: 30px;
+    margin-top: -600px;
+    margin-left: 1370px;
+}
+
+.ali {
+    width: 100%;
+    margin-bottom: 100px;
+    position: relative;
+}
+
+.ali-text {
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 1300px;
+    font-size: 35px;
+    color: white;
+}
+
+.map {
+    width: 15%;
+}
+
+.footer-container {
+    display: flex;
+    background-color: black;
+    width: 100%;
+    color: black;
+    max-height: 70% !important;
+    margin-top: -100px;
+}
+
+.footrow {
+    color: white !important;
+    justify-content: center;
+    text-align: left;
+    margin-right: 50%;
+    column-gap: 50%;
+    display: flex;
+    margin-right: 50px;
+    margin-left: 200px;
+    font-size: larger;
+}
+
+.column {
+    width: 110%;
+    padding: 10px;
+    color: white;
+    align-items: center;
+}

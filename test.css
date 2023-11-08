@@ -1,0 +1,134 @@
+* {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.sign-in-container {
+    align-items: center;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 745px;
+    margin-top: -800px;
+    font-size: smaller;
+    position: absolute;
+    background-color: white;
+    padding-right: 10px;
+}
+
+.Sign-up {
+    margin-left: 14px;
+}
+
+.help {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.username {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    margin-top: -3px;
+    margin-bottom: -10px;
+    text-align: left;
+}
+
+.username-input {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    text-align: left;
+}
+
+.new-password {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    text-align: left;
+    float: left;
+}
+
+.Pass_Input {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    margin-top: 3px;
+    margin-right: auto;
+    text-align: left;
+}
+
+.help {
+    font-size: small;
+    display: block;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.link {
+    font-size: small;
+    display: block;
+    margin-right: 20px;
+    text-align: right;
+    float: right;
+}
+
+.Cont_Button {
+    border-width: 1px;
+    display: block;
+    margin-left: 16px;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 155px;
+    padding-right: 155px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.Create {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-left: 95px;
+    padding-right: 95px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .logo {
+    display: block;
+    margin-left: 750px;
+    margin-top: 00px;
+    width: 20%;
+    position: absolute;
+  }
+
+  .title {
+    display: block;
+    margin-left: 860px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+  }
+
+.background {
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    margin-bottom: -6px;
+}
+
+.new-account {
+    
+}
