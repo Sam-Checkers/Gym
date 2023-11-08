@@ -13,12 +13,12 @@ body {
     align-items: center;
     border-style: solid;
     border-width: 1px;
-    margin-left: 745px;
+    margin-left: 780px;
     margin-top: -800px;
     font-size: smaller;
     position: absolute;
     background-color: white;
-    padding-right: 10px;
+    padding-right: 0px;
 }
 
 .Sign-up {
